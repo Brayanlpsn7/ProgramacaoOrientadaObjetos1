@@ -175,6 +175,6 @@ internal class Program
         // === 2. Calculadora
         Console.WriteLine("=== Ex.2 Calculadora");
 
-
+        // Alterei
     }
 }
