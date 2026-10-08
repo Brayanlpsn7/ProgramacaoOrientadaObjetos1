@@ -1,0 +1,16 @@
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\bin\Debug\net10.0\ProgramacaoOrientadaObjetos.exe
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\bin\Debug\net10.0\ProgramacaoOrientadaObjetos.deps.json
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\bin\Debug\net10.0\ProgramacaoOrientadaObjetos.runtimeconfig.json
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\bin\Debug\net10.0\ProgramacaoOrientadaObjetos.dll
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\bin\Debug\net10.0\ProgramacaoOrientadaObjetos.pdb
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.AssemblyInfoInputs.cache
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.AssemblyInfo.cs
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.dll
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\refint\ProgramacaoOrientadaObjetos.dll
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.pdb
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.genruntimeconfig.cache
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ref\ProgramacaoOrientadaObjetos.dll
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\Programa.B2769588.Up2Date
+C:\Users\04796279164\source\repos\ProgramacaoOrientadaObjetos\obj\Debug\net10.0\ProgramacaoOrientadaObjetos.sourcelink.json
