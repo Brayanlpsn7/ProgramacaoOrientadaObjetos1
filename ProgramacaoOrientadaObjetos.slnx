@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../Encapsulamento/Encapsulamento.csproj" Id="f24e07f1-2f3d-4b72-89fc-2a151c5d9086" />
+  <Project Path="../MetodoConstrutor/MetodoConstrutor.csproj" Id="9fd4bdcb-01d2-41fd-b097-e107edd6c6aa" />
+  <Project Path="../PilaresPOO/PilaresPOO.csproj" Id="64fcdf2f-0b73-4b7c-90b9-0c213379c2f1" />
   <Project Path="ProgramacaoOrientadaObjetos1.csproj" />
 </Solution>

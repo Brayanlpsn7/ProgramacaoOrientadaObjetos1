@@ -175,6 +175,12 @@ internal class Program
         // === 2. Calculadora
         Console.WriteLine("=== Ex.2 Calculadora");
 
-        // Alterei
+        Calculadora calc = new Calculadora();
+
+        int soma = calc.Somar(10, 5);
+        calc.MostrarResultado(soma);
+        calc.MostrarResultado(calc.Subtrair(10,5));
+
+       
     }
 }
